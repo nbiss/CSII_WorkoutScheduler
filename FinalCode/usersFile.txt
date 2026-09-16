@@ -1,0 +1,4 @@
+defaultUser, Default!, defaultUser, M, 1, 1
+Johnny1, Password!1, john, M, 72, 180
+Janice54, ThisisaPass*, Janice, F, 60, 140
+noahBiss, Password!, Noah, M, 72, 180
